@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_wind_turbine_cmdb_ci_wt_equipment" label="Low Speed Shaft" max_length="40" name="sn_wind_turbine_cmdb_ci_wt_ls_shaft" type="collection"/>
+</database>

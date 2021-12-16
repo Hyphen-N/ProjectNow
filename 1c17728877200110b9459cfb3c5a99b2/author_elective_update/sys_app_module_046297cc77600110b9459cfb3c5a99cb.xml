@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Anemometer">c46297cc77600110b9459cfb3c5a99c8</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Anemometers</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_wind_turbine_cmdb_ci_wt_anemometer</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_wind_turbine.anemometer_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:33:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>046297cc77600110b9459cfb3c5a99cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Anemometers</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_update_name>sys_app_module_046297cc77600110b9459cfb3c5a99cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:33:36</sys_updated_on>
+        <timeline_page/>
+        <title>Anemometers</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</application>
+        <file_path/>
+        <instance_id>218b6faced10011049cb300fd1654a03</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_app_module_046297cc77600110b9459cfb3c5a99cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Anemometer">c46297cc77600110b9459cfb3c5a99c8</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Anemometers</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sn_wind_turbine_cmdb_ci_wt_anemometer</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>sn_wind_turbine.anemometer_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-16 07:33:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>046297cc77600110b9459cfb3c5a99cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Anemometers</sys_name><sys_overrides/><sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package><sys_policy/><sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope><sys_update_name>sys_app_module_046297cc77600110b9459cfb3c5a99cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-16 07:33:36</sys_updated_on><timeline_page/><title>Anemometers</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-16847826</payload_hash>
+        <record_name>Anemometers</record_name>
+        <reverted_from/>
+        <source>c10c7a8c77200110b9459cfb3c5a99dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:33:36</sys_created_on>
+        <sys_id>486297cc77600110b9459cfb3c5a99cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dc22927e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:33:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>806297cc81600110b99086674614e3cd</update_guid>
+        <update_guid_history>806297cc81600110b99086674614e3cd:-16847826</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Anemometers">fb725bcc77600110b9459cfb3c5a991f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:34:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>44c604a8bb534fe084b642a881b9ce10</sys_id>
+        <sys_metadata>046297cc77600110b9459cfb3c5a99cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Anemometers</sys_name>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_scope_delete display_value="">6c459e305f5449f8b7b64e443257a040</sys_scope_delete>
+        <sys_update_name>sys_app_module_046297cc77600110b9459cfb3c5a99cb</sys_update_name>
+        <sys_update_version display_value="sys_app_module_046297cc77600110b9459cfb3c5a99cb">486297cc77600110b9459cfb3c5a99cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:34:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

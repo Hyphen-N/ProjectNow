@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_wind_turbine_cmdb_ci_wt_equipment</description>
+        <name>sn_wind_turbine_cmdb_ci_wt_equipment</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:16:34</sys_created_on>
+        <sys_id>d27e8fc877600110b9459cfb3c5a991a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_wind_turbine_cmdb_ci_wt_equipment</sys_name>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_update_name>sys_security_acl_d27e8fc877600110b9459cfb3c5a991a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:16:34</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

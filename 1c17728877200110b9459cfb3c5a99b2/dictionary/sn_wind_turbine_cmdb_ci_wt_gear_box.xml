@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_wind_turbine_cmdb_ci_wt_equipment" label="Gear Box" max_length="40" name="sn_wind_turbine_cmdb_ci_wt_gear_box" type="collection"/>
+</database>

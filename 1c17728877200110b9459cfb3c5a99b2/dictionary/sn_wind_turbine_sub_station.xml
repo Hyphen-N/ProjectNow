@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Sub Station" max_length="40" name="sn_wind_turbine_sub_station" type="collection">
+        <element display="true" label="Area" max_length="32" name="area" type="integer"/>
+        <element label="Area In use" max_length="32" name="area_in_use" type="integer"/>
+    </element>
+</database>

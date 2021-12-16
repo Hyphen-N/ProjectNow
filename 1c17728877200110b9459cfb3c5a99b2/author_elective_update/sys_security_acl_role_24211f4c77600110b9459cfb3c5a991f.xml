@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:28:11</sys_created_on>
+        <sys_id>24211f4c77600110b9459cfb3c5a991f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_wind_turbine_cmdb_ci_wt_gear_box.sn_wind_turbine._gear_box_user</sys_name>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_security_acl display_value="sn_wind_turbine_cmdb_ci_wt_gear_box">a0211f4c77600110b9459cfb3c5a991c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_24211f4c77600110b9459cfb3c5a991f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:28:11</sys_updated_on>
+        <sys_user_role display_value="sn_wind_turbine._gear_box_user" name="sn_wind_turbine._gear_box_user">e821db4c77600110b9459cfb3c5a99bf</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</application>
+        <file_path/>
+        <instance_id>218b6faced10011049cb300fd1654a03</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_role_24211f4c77600110b9459cfb3c5a991f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-16 07:28:11</sys_created_on><sys_id>24211f4c77600110b9459cfb3c5a991f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_wind_turbine_cmdb_ci_wt_gear_box.sn_wind_turbine._gear_box_user</sys_name><sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package><sys_policy/><sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope><sys_security_acl display_value="sn_wind_turbine_cmdb_ci_wt_gear_box">a0211f4c77600110b9459cfb3c5a991c</sys_security_acl><sys_update_name>sys_security_acl_role_24211f4c77600110b9459cfb3c5a991f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-16 07:28:11</sys_updated_on><sys_user_role display_value="sn_wind_turbine._gear_box_user" name="sn_wind_turbine._gear_box_user">e821db4c77600110b9459cfb3c5a99bf</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2109113195</payload_hash>
+        <record_name>sn_wind_turbine_cmdb_ci_wt_gear_box.sn_wind_turbine._gear_box_user</record_name>
+        <reverted_from/>
+        <source>c10c7a8c77200110b9459cfb3c5a99dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:28:11</sys_created_on>
+        <sys_id>ac211f4c77600110b9459cfb3c5a9921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dc22431bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:28:11</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>e4211f4cdf6001107a2ae262e3a81321</update_guid>
+        <update_guid_history>e4211f4cdf6001107a2ae262e3a81321:-2109113195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_wind_turbine_cmdb_ci_wt_gear_box.sn_wind_turbine._gear_box_user">c761d38c77600110b9459cfb3c5a9916</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 07:29:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>21c87a9fa07c40b09173ced257951c40</sys_id>
+        <sys_metadata>24211f4c77600110b9459cfb3c5a991f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_wind_turbine_cmdb_ci_wt_gear_box.sn_wind_turbine._gear_box_user</sys_name>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_parent display_value="">a0211f4c77600110b9459cfb3c5a991c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_scope_delete display_value="">6c459e305f5449f8b7b64e443257a040</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_24211f4c77600110b9459cfb3c5a991f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_24211f4c77600110b9459cfb3c5a991f">ac211f4c77600110b9459cfb3c5a9921</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 07:29:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
