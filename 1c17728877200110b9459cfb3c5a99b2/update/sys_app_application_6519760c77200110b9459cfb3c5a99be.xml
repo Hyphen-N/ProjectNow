@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Field Management</description>
+        <device_type>browser</device_type>
+        <hint>Field Management</hint>
+        <name/>
+        <order/>
+        <roles>sn_wind_turbine.project administrator</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 05:43:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6519760c77200110b9459cfb3c5a99be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wind Turbine</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_update_name>sys_app_application_6519760c77200110b9459cfb3c5a99be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 05:43:07</sys_updated_on>
+        <title>Wind Turbine</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

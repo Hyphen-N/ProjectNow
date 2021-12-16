@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Register this event for the future script action, parm1 provides module name and id, parm2 provides </description>
+        <event_name>module.key.registry</event_name>
+        <fired_by>KMF module key registry</fired_by>
+        <queue/>
+        <suffix/>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-16 05:52:41</sys_created_on>
+        <sys_id>654b368c77200110b9459cfb3c5a9936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>module.key.registry</sys_name>
+        <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
+        <sys_update_name>sysevent_register_654b368c77200110b9459cfb3c5a9936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-16 05:52:41</sys_updated_on>
+        <table/>
+    </sysevent_register>
+</record_update>
