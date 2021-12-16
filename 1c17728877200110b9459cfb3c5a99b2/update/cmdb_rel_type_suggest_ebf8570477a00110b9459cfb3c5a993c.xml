@@ -2,21 +2,21 @@
     <cmdb_rel_type_suggest action="INSERT_OR_UPDATE">
         <base_class>sn_wind_turbine_wind_turbine</base_class>
         <child>false</child>
-        <cmdb_rel_type display_value="Contains Element::Element of">f05a9ac4535720108fabddeeff7b12fe</cmdb_rel_type>
+        <cmdb_rel_type display_value="Contains::Contained by">55c95bf6c0a8010e0118ec7056ebc54d</cmdb_rel_type>
         <dependent_class>sn_wind_turbine_cmdb_ci_wt_generator</dependent_class>
         <parent>true</parent>
-        <relationship>parent:f05a9ac4535720108fabddeeff7b12fe</relationship>
+        <relationship>parent:55c95bf6c0a8010e0118ec7056ebc54d</relationship>
         <sys_class_name>cmdb_rel_type_suggest</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-16 08:02:50</sys_created_on>
         <sys_id>ebf8570477a00110b9459cfb3c5a993c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>sn_wind_turbine_wind_turbine</sys_name>
         <sys_package display_value="Wind Turbine" source="sn_wind_turbine">1c17728877200110b9459cfb3c5a99b2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wind Turbine">1c17728877200110b9459cfb3c5a99b2</sys_scope>
         <sys_update_name>cmdb_rel_type_suggest_ebf8570477a00110b9459cfb3c5a993c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-16 08:02:50</sys_updated_on>
+        <sys_updated_on>2021-12-16 15:14:53</sys_updated_on>
     </cmdb_rel_type_suggest>
 </record_update>
